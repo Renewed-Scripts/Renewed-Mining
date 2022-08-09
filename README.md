@@ -11,6 +11,7 @@ Resource also contains a good amount of protection to make sure no modders will 
 This is a completely **FREE** resource, if you want to support me for the work I've put in you can buy me a coffee.
 
 - [Ko-Fi](https://ko-fi.com/FjamZoo)
+- Join my [Discord](https://discord.gg/AS2Y8TWejt) for additional support.
 
 ## Preview
 
